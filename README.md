@@ -7,6 +7,8 @@ It was fire
 
 > "One of the more benign pieces of malware out there"
 
+> "Consider the usefulness of your app" -Firefox Dev
+
 ## We've all been in this situation. 
 
 Your friend leaves their laptop open and unlocked, and naturally we start looking for a way to make them seriously regret it.
