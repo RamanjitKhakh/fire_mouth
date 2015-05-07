@@ -7,7 +7,7 @@ It was fire
 
 > "One of the more benign pieces of malware out there"
 
-> "Consider the usefulness of your app" -Firefox Dev
+> "Consider the usefulness of your app" - Some Firefox Dev
 
 ## We've all been in this situation. 
 
